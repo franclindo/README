@@ -8,15 +8,15 @@
 
 <a href="#"><img src="https://github.com/franclindo/README/blob/main/etc/eu.png" align="right" height="275" /></a>
 
-Sou um Analista de Sistemas com foco em integração de sistemas corporativos (especialmente TOTVS), desenvolvimento front-end com React + Tailwind e atenção constante à experiência do usuário.
-Gosto de resolver problemas com tecnologia de forma prática, acessível e escalável — seja integrando sistemas legados, desenvolvendo APIs ou criando interfaces amigáveis.
+Sou um Analista de Sistemas com foco em integração de sistemas corporativos (especialmente TOTVS), desenvolvedor front-end com React + Tailwind e atenção constante à experiência do usuário.
+Gosto de resolver problemas com tecnologia de forma prática, acessível e escalável, seja integrando sistemas legados, desenvolvendo APIs ou criando interfaces amigáveis.
 
 ---
 
 - 💼 Atualmente: Analista de Sistemas na UNILEÃO
-- 🔍 Foco em: Integrações TOTVS | UX/UI | Front-End moderno
+- 🔍 Foco em: Integrações TOTVS | UX/UI | Front-End moderno 
 - 🌱 Estudando: Clean Code, GraphQL, Azure e automação de testes
-- 📚 Formação: Sistemas de Informação (IFCE) + Matemática Computacional (UFCA)
+- 📚 Formação: Sistemas de Informação (IFCE)
 - 🧠 Curiosidade geek: Leio sobre cripto, inteligência artificial e adoro desmontar hardware por diversão
 
 ---
@@ -35,16 +35,19 @@ Gosto de resolver problemas com tecnologia de forma prática, acessível e escal
 ---
 
 ## 🌱 Em evolução
+![Figma](https://img.shields.io/badge/-Figma-1572B6?style=flat-square&logo=Figma)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Nodejs](https://img.shields.io/badge/-Nodejs-3ECF8E?style=flat-square&logo=Node.js)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=TailwindCSS)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-%234ea94b?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-%23C21325?style=flat-square&logo=jest&logoColor=white)
 
 
 Atualmente estudando mais sobre:
