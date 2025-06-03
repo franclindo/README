@@ -2,14 +2,13 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-frjuniorfrjr@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:frjuniorfrjr@gmail.com "Conecte-se por Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Francinilton%20Junior-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/francinilton-junior "Conecte-se no LinkedIn")
-[![Telegram Badge](https://img.shields.io/badge/-@fran_junior-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/fran_junior "Fale comigo no Telegram")
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/frjuniorfrjr "Meu GitHub")
-[![Portfólio Badge](https://img.shields.io/badge/-Portfólio-0e76a8?style=flat&logo=internet-explorer&logoColor=white)](https://frjunior.dev "Acesse meu portfólio")
+[![Telegram Badge](https://img.shields.io/badge/-@frjrfranci-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/frjrfranci "Fale comigo no Telegram")
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/franclindo "Meu GitHub")
+[![Portfólio Badge](https://img.shields.io/badge/-Portfólio-0e76a8?style=flat&logo=internet-explorer&logoColor=white)](https://frjunior.dev "Ainda irei construir")
 
 <a href="#"><img src="https://github.com/franclindo/README/blob/main/etc/eu.png" align="right" height="275" /></a>
 
 Sou um Analista de Sistemas com foco em integração de sistemas corporativos (especialmente TOTVS), desenvolvimento front-end com React + Tailwind e atenção constante à experiência do usuário.
-
 Gosto de resolver problemas com tecnologia de forma prática, acessível e escalável — seja integrando sistemas legados, desenvolvendo APIs ou criando interfaces amigáveis.
 
 ---
@@ -36,6 +35,17 @@ Gosto de resolver problemas com tecnologia de forma prática, acessível e escal
 ---
 
 ## 🌱 Em evolução
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+
 
 Atualmente estudando mais sobre:
 
