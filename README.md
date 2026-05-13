@@ -8,7 +8,7 @@
 
 <a href="#"><img src="https://github.com/franclindo/README/blob/main/etc/eu.png" align="right" height="275" /></a>
 
-Sou um Analista de Sistemas com foco em integração de sistemas corporativos (especialmente TOTVS), desenvolvedor front-end com React + Tailwind e atenção constante à experiência do usuário.
+Desenvolvedor front-end com React + Tailwind e atenção constante à experiência do usuário.
 Gosto de resolver problemas com tecnologia de forma prática, acessível e escalável, seja integrando sistemas legados, desenvolvendo APIs ou criando interfaces amigáveis.
 
 ---
